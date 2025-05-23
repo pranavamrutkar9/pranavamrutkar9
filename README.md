@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavamrutkar9&show_icons=true&count_private=true&hide=prs&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavamrutkar9&langs_count=8&layout=compact)](https://github.com/pranavamrutkar9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavamrutkar9&langs_count=8&layout=compact)]
 
 ### 📬 Contact Me
 
