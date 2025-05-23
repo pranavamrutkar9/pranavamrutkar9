@@ -9,8 +9,6 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 - **Advanced Python Programming**
 
 ### 🛠️ Skills & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 - **Frontend Development**: ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 - **Web Development**: ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2340B4A6.svg?style=flat&logo=react&logoColor=white)
                         ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white), ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white), ![React](https://img.shields.io/badge/React-%2300D9F9.svg?style=flat&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
@@ -22,11 +20,18 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 
 ### 🎮 Hobbies & Interests
 
-- Tech Experimentation  
-- Reading  
-- Watching Movies  
-- Music
+- 💻🔧 Tech Experimentation  
+- 📚 Reading  
+- 🎬🍿 Watching Movies  
+- 🎶🎧 Music
 
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavamrutkar9&show_icons=true&count_private=true&hide=prs&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavamrutkar9&langs_count=8&layout=compact)](https://github.com/pranavamrutkar9/github-readme-stats)
+
+### 📬 Contact Me
+
+- Email: [pranav@example.com](mailto:pranavamrutkar09@gmail.com)  
+- LinkedIn: [Pranav Amrutkar](https://www.linkedin.com/in/pranav-amrutkar-56576b287/)  
+
