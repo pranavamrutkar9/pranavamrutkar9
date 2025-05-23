@@ -10,17 +10,12 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 
 ### 🛠️ Skills & Technologies
 
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-%2300D9F9.svg?&style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Git](https://img.shields.io/badge/Git-%23F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sql.org/)
+- **Frontend Development**: HTML, CSS, JavaScript  
+- **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)  
+- **Programming**: Python(https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), C, C++, ABAP (logic building, DSA)  
+- **Database Management**: SQL, SAP HANA  
+- **Version Control**: Git & GitHub  
+- **UI/UX Design**: Wireframing, Prototyping, Design Principles
 
 ### 🎮 Hobbies & Interests
 
