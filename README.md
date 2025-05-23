@@ -32,6 +32,6 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 
 ### 📬 Contact Me
 
-- Email: [pranav@example.com](mailto:pranavamrutkar09@gmail.com)  
+- Email: [pranavamrutkar09@gmail.com](mailto:pranavamrutkar09@gmail.com)  
 - LinkedIn: [Pranav Amrutkar](https://www.linkedin.com/in/pranav-amrutkar-56576b287/)  
 
