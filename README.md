@@ -12,7 +12,7 @@ I'm a Computer Science Engineering student who loves turning ideas into digital 
 
 - **Frontend Development**: HTML, CSS, JavaScript  
 - **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Programming**: Python(https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), C, C++, ABAP (logic building, DSA)  
+- **Programming**: [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/), C, C++, ABAP (logic building, DSA)  
 - **Database Management**: SQL, SAP HANA  
 - **Version Control**: Git & GitHub  
 - **UI/UX Design**: Wireframing, Prototyping, Design Principles
