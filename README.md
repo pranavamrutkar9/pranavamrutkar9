@@ -1,6 +1,8 @@
 # 👋 Hi, I'm **Pranav Amrutkar**!
 
-I'm a Computer Science Engineering student who loves turning ideas into digital solutions, with a passion for building clean and functional web applications. I enjoy developing with Python and continuously sharpening my problem-solving skills through Data Structures and Algorithms.
+- 🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University. 
+- 💡 I love turning ideas into digital solutions, with a passion for building clean and functional web applications. 
+- 🖥️ I enjoy developing with Python and continuously sharpening my problem-solving skills through Data Structures and Algorithms.
 
 ### 📚 Current Learning Focus
 
