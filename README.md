@@ -25,7 +25,7 @@
 - 📚 Reading  
 - 🎬 Movies  
 
-### 📬 Contact Me
+### 📬 Reach Me
 
 - Email: [pranavamrutkar09@gmail.com](mailto:pranavamrutkar09@gmail.com)  
 - LinkedIn: [Pranav Amrutkar](https://www.linkedin.com/in/pranav-amrutkar-56576b287/)  
