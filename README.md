@@ -10,7 +10,107 @@
 - **Data Structures & Algorithms (DSA)**  
 - **Advanced Python Programming**
 
-### 🛠️ Skills & Technologies:
+### 🛠️ Skills & Technologies
+
+<table>
+  <tr><th>🌐 Frontend Development</th></tr>
+  <tr>
+    <td align="center">
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/><br>Tailwind CSS
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><th>💻 Web Development (MERN Stack)</th></tr>
+  <tr>
+    <td align="center">
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><th>🧠 Programming & DSA</th></tr>
+  <tr>
+    <td align="center">
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-abap-a-high-level-programming-language-created-by-the-german-software-company-sap-logo-color-tal-revivo.png" width="40"/><br>ABAP
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><th>🗃️ Database Management</th></tr>
+  <tr>
+    <td align="center">
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL / MySQL
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><th>🔧 Tools & Version Control</th></tr>
+  <tr>
+    <td align="center">
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+      </div>
+      <div style="display: inline-block; margin: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr><th>🎨 UI/UX Design</th></tr>
+  <tr>
+    <td align="center">
+      Wireframing · Prototyping · Design Principles
+    </td>
+  </tr>
+</table>
+
+
+### 🛠️ Skills & Technologies:  
+- #### 🌐 Frontend Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/>
+
+
 - **Frontend Development**: ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 - **Web Development**: ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2340B4A6.svg?style=flat&logo=react&logoColor=white) - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-%2300D9F9.svg?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 - **Programming**: Logic Building & DSA
