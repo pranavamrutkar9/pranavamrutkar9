@@ -12,112 +12,90 @@
 
 ### 🛠️ Skills & Technologies
 
+#### 🌐 Frontend Development
 <table>
-  <tr><th>🌐 Frontend Development</th></tr>
-  <tr>
-    <td align="center">
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/><br>Tailwind CSS
-      </div>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr><th>💻 Web Development (MERN Stack)</th></tr>
-  <tr>
-    <td align="center">
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
-      </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr><th>🧠 Programming & DSA</th></tr>
-  <tr>
-    <td align="center">
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-abap-a-high-level-programming-language-created-by-the-german-software-company-sap-logo-color-tal-revivo.png" width="40"/><br>ABAP
-      </div>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr><th>🗃️ Database Management</th></tr>
-  <tr>
-    <td align="center">
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>SQL / MySQL
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr><th>🔧 Tools & Version Control</th></tr>
-  <tr>
-    <td align="center">
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-      </div>
-      <div style="display: inline-block; margin: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr><th>🎨 UI/UX Design</th></tr>
-  <tr>
-    <td align="center">
-      Wireframing · Prototyping · Design Principles
+    <td>  
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="120"/><br>Tailwind CSS
     </td>
   </tr>
 </table>
 
 
-### 🛠️ Skills & Technologies:  
-- #### 🌐 Frontend Development: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/>
+#### 💻 Web Development (MERN Stack)
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+    </td>
+  </tr>
+</table>
 
+#### 🧠 Programming & DSA
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
+    </td>
+  </tr>
+</table>
 
-- **Frontend Development**: ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?&logo=tailwindcss) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- **Web Development**: ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2340B4A6.svg?style=flat&logo=react&logoColor=white) - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-%2300D9F9.svg?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-- **Programming**: Logic Building & DSA
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white) ![ABAP](https://img.shields.io/badge/ABAP-%23000000.svg?style=flat&logo=SAP&logoColor=white)
-- **Database Management**: ![SQL](https://img.shields.io/badge/SQL-%2307405E.svg?style=flat&logo=sqlite&logoColor=white)
-- **Version Control**: ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white) & ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-- **UI/UX Designing**: Wireframing, Prototyping, Design Principles
+#### 🗃️ Database Management
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=sap&logoColor=white" width="120"/><br>ABAP
+    </td>
+  </tr>
+</table>
+
+#### 🔧 Tools & Version Control
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+    <td>
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/><br>Github
+    </td>
+  </tr>
+</table>
+
+#### 🎨 UI/UX Design
+<table>
+  <tr align="center">
+    <td>Wireframing</td>
+    <td>Prototyping</td>
+    <td>Design Principles</td>
+  </tr>
+</table>
 
 ### 🎮 Hobbies & Interests
 
