@@ -12,90 +12,27 @@
 
 ### 🛠️ Skills & Technologies
 
-#### 🌐 Frontend Development
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-    </td>
-    <td>  
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="120"/><br>Tailwind CSS
-    </td>
-  </tr>
-</table>
+## 🛠️ Skills
 
+| 🧠 Languages |
+|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> |  
 
-#### 💻 Web Development (MERN Stack)
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express.js
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
-    </td>
-  </tr>
-</table>
+| 🎨 Frontend |
+|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> |
 
-#### 🧠 Programming & DSA
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>C
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
-    </td>
-  </tr>
-</table>
+| ⚙️ Backend & Database |
+|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL/SQL" width="40"/> <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=sap&logoColor=white" width="70"/> |
 
-#### 🗃️ Database Management
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=sap&logoColor=white" width="120"/><br>ABAP
-    </td>
-  </tr>
-</table>
+| 🎨 UI Design Tools |
+|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="XD" width="40"/> <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/> |
 
-#### 🔧 Tools & Version Control
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-    </td>
-    <td>
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub (White)"/><br>Github
-    </td>
-  </tr>
-</table>
-
-#### 🎨 UI/UX Design
-<table>
-  <tr align="center">
-    <td>Wireframing</td>
-    <td>Prototyping</td>
-    <td>Design Principles</td>
-  </tr>
-</table>
+| 🛠 Tools & Platforms |
+|-----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/> |
 
 ### 🎮 Hobbies & Interests
 
