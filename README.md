@@ -1,47 +1,68 @@
-# 👋 Hi, I'm **Pranav Amrutkar**!
+# 👋 Hi, I'm Pranav
 
-- 🎓 I'm a Computer Science Engineering student currently pursuing a B.Tech CSE (Industry Embedded Program in association with SAP) at Parul University. 
-- 💡 I love turning ideas into digital solutions, with a passion for building clean and functional web applications. 
-- 🖥️ I enjoy developing with Python and continuously sharpening my problem-solving skills through Data Structures and Algorithms.
+* 🏗️ **Computer Science Engineering student** focused on building practical software and strengthening core CS fundamentals.
 
-### 📚 Current Learning Focus
+* 🎨 Care for clean UI, clear logic, and writing code that actually holds up.
 
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)  
-- **Data Structures & Algorithms (DSA)**  
-- **Advanced Python Programming**
+* 🧠 Zero interest in "shipping for clout"
+
+* ⚙️ Valuing technical depth over hype.
+
+---
+
+### 🔨 What I Work ON
+* **Full-Stack Development** : 
+    
+    * Building end-to-end **MERN** applications.
+* **Enterprise Infrastructure** : 
+    
+    * Breaking into the **SAP Ecosystem** (Fiori, ABAP, RAP, and BTP) to understand how global business runs.
+* **Intelligent Systems** : 
+    
+    * Implementing **ML & AI** to solve real-world problems.
+
+---
 
 ### 🛠️ Skills & Technologies
 
-## 🛠️ Skills
+**Full-Stack (MERN) & Web Ecosystem**
 
-| 🧠 Languages |
-|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> |  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30"/>
+</p>  
 
-| 🎨 Frontend |
-|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> |
+**Core Languages & Fundamentals**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
+  <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=sap&logoColor=white" height="30"/>
+</p>
 
-| ⚙️ Backend & Database |
-|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL/SQL" width="40"/> <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=sap&logoColor=white" width="70"/> |
+**Data Science & Machine Learning**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="30"/>
+</p>
 
-| 🎨 UI Design Tools |
-|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="XD" width="40"/> <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40"/> |
+**Enterprise & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg" alt="SAP" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="XD" width="30"/>
+</p>
 
-| 🛠 Tools & Platforms |
-|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/> |
+---
 
-### 🎮 Hobbies & Interests
-
-- 💻🔧 Tech Experimentation  
-- 📚 Reading  
-- 🎬 Movies  
-
-### 📬 Reach Me
-
-- Email: [pranavamrutkar09@gmail.com](mailto:pranavamrutkar09@gmail.com)  
-- LinkedIn: [Pranav Amrutkar](https://www.linkedin.com/in/pranav-amrutkar-56576b287/)  
-
+### 📫 Let's Connect
+* **LinkedIn:** [Linkedin](https://linkedin.com/in/pranavamrutkar9)
+* **Email:** [Email](mailto:pranavamrutkar09@gmail.com)
